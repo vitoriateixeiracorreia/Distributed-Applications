@@ -2,6 +2,8 @@
 
 Welcome to the **Distributed Applications** repository! This repository contains three projects focusing on distributed computing principles with Python.
 
+Este README tambem existe em [Português](README_PT.md)
+
 ## Table of Contents
 1. [Project 1](#project-1)
 2. [Project 2](#project-2)
